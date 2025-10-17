@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/painel-candidatos/static/css/main.f750016c.css",
+    "main.js": "/painel-candidatos/static/js/main.639122c8.js",
+    "static/js/453.a81617c2.chunk.js": "/painel-candidatos/static/js/453.a81617c2.chunk.js",
+    "index.html": "/painel-candidatos/index.html",
+    "main.f750016c.css.map": "/painel-candidatos/static/css/main.f750016c.css.map",
+    "main.639122c8.js.map": "/painel-candidatos/static/js/main.639122c8.js.map",
+    "453.a81617c2.chunk.js.map": "/painel-candidatos/static/js/453.a81617c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f750016c.css",
+    "static/js/main.639122c8.js"
+  ]
+}
